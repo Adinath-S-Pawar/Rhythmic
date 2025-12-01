@@ -32,6 +32,7 @@ Once the page loads, you should see a list of albums (if your `songs/` folder ha
  
 
 ## Folder Structure  
+```
 /Rhythmic
 ├── img/ 
 ├── songs/ # your music files (folders or individual files)
@@ -40,3 +41,4 @@ Once the page loads, you should see a list of albums (if your `songs/` folder ha
 ├── style.css # player styles
 ├── utility.css # utility / helper CSS rules
 └── README.md
+```
